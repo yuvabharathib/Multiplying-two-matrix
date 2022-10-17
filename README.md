@@ -1,4 +1,4 @@
-# Multiplying-two-matrix
+# Multiplying-two-array
 
 ## AIM:
 To multiply two arrays
